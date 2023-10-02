@@ -1,0 +1,1 @@
+select id, fullname, money, card_number from public.employee;
